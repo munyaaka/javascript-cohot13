@@ -18,6 +18,7 @@ switch (new Date().getDay()) {
         day = "Friday";
         break;
     case 6:
+        day = "satuday";
         break;
     default:
         console.log(the)

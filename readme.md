@@ -1,7 +1,9 @@
 # group2
--sualit munyaaka
--bassajjasubi kamir
+-Sualit munyaaka
+-Bassajjasubi kamir
 -Tonny Luyima
--otim 
--agaba richard
+-Otim 
+-Agaba richard
+-Nassali Aminah
+-Ojara Ceaser
 
